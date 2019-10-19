@@ -1,5 +1,5 @@
 # EOCubes
-Software for Earth observation data cubes management and consuming using R.
+R Client for EOCubes service. EOCubes is a proposed web service for Earth observation data cubes. The development of the server package for EOCubes is available at 
 
 ## Description
 `EOCubes` has as its unit of organization the `cube` object, a set of references to raster files representing spatial, temporal and spectral information of a geographical region. `EOCubes` provides functions to manage cubes metadata using JSON files that organizes the sharing and the consumption of rasters files in the Web.
